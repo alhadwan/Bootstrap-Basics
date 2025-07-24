@@ -2,6 +2,8 @@
 
 A web page built using Bootstrap 5 which demonstrates responsive layout design such as a registration form, data table, responsive images, buttons, and a navigation bar.
 
+# Demo: https://alhadwan.github.io/Bootstrap-Basics/
+
 ## Features
 
 - Responsive Navigation Bar with collapse on smaller screens
